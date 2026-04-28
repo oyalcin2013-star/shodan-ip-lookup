@@ -1,4 +1,5 @@
-const API_KEY = "SHfu88agJkbKbXcR7sCpkD32n2dvlDvh";
+const API_KEY = "	
+0vkbDgZB1LRAFaMxw4T6yXvCzBtdZb6G";
 
 exports.handler = async (event) => {
   const ip = event.queryStringParameters?.ip;
