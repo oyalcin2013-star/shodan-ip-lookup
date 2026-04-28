@@ -1,7 +1,7 @@
 [build]
-  command = "echo 'Deploying...'"
+  functions = "functions"
   publish = "."
-  
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
